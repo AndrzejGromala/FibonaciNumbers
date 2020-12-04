@@ -1,0 +1,14 @@
+C:\Users\CenitAdmin\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\CenitAdmin\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\CenitAdmin\source\repos\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\CenitAdmin\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\CenitAdmin\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\CenitAdmin\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\CenitAdmin\source\repos\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\OtherProjects\VisualStudio\VisualStudioProject\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\OtherProjects\VisualStudio\VisualStudioProject\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\OtherProjects\VisualStudio\VisualStudioProject\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\OtherProjects\VisualStudio\VisualStudioProject\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\OtherProjects\VisualStudio\VisualStudioProject\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\OtherProjects\VisualStudio\VisualStudioProject\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\OtherProjects\VisualStudio\VisualStudioProject\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
